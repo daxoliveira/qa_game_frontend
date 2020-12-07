@@ -1,13 +1,11 @@
 # Questions and Answers Game with Redux
 
-You can play the deployed version of this game at [https://daxquestionsandanswersgame.netlify.app/](https://daxquestionsandanswersgame.netlify.app/).
-
-## How to try it locally
+## How to run it locally
 
 ### `Step 1 - git clone`
 
 Open your terminal and paste the command below and hit enter.
-"git clone https://github.com/daxoliveira/questions_and_answers_game.git"
+"git clone https://github.com/daxoliveira/qa_game_frontend.git"
 
 ### `Step 2 - npm install`
 
